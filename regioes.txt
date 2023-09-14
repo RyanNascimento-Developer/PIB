@@ -1,0 +1,27 @@
+Rondônia;Norte
+Acre;Norte
+Amazonas;Norte
+Roraima;Norte
+Pará;Norte
+Amapá;Norte
+Tocantins;Norte
+Maranhão;Nordeste
+Piauí;Nordeste
+Ceará;Nordeste
+Rio Grande do Norte;Nordeste
+Paraíba;Nordeste
+Pernambuco;Nordeste
+Alagoas;Nordeste
+Sergipe;Nordeste
+Bahia;Nordeste
+Minas Gerais;Sudeste
+Espírito Santo;Sudeste
+Rio de Janeiro;Sudeste
+São Paulo;Sudeste
+Paraná;Sul
+Santa Catarina;Sul
+Rio Grande do Sul;Sul
+Mato Grosso do Sul;Centro-Oeste
+Mato Grosso;Centro-Oeste
+Goiás;Centro-Oeste
+Distrito Federal;Centro-Oeste

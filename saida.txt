@@ -1,0 +1,5 @@
+Centro-Oeste: 395.0
+Nordeste: 551.0
+Sul: 671.0
+Sudeste: 2294.0
+Norte: 221.5
